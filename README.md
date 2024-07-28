@@ -1,4 +1,4 @@
-````markdown
+
 # Investment Calculator
 
 This is an Investment Calculator web application built with React. The application allows users to calculate the future value of their investments based on various inputs such as initial investment amount, annual interest rate, and investment duration.
